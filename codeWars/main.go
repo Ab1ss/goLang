@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"kata"
 )
 
 func main() {
