@@ -1,12 +1,9 @@
-package main
+package kata
 
-import "fmt"
-
-func main() {
-	arr1 := [3]int{1, 2, 3}
+func SquareSum(numbers []int) int {
 	sum := 0
-	for _, num := range arr1 {
+	for _, num := range numbers {
 		sum += num * num
 	}
-	fmt.Println(sum)
+	return sum
 }
