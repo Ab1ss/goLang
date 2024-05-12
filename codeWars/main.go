@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Ab1ss/codeWars/kata" // Import the kata package from test.go
+	"github.com/Ab1ss/goLang/codeWars/kata" // Import the kata package from test.go
 )
 
 func main() {
