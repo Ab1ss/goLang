@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"kata"
+
+	"./kata" // Import the kata package from test.go
 )
 
 func main() {
